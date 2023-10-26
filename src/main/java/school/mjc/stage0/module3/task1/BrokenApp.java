@@ -4,6 +4,6 @@ public class BrokenApp
 {
     public static void main(String []args)
     {
-        System.out.println("fix\nMe");
+        System.out.print("fix\nMe");
     }
 }
